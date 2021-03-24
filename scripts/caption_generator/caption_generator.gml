@@ -20,7 +20,8 @@ function caption_generator(){
 	"Project Blue Moon - Sure They Took A Small Step, But We'll Take A Bigger One!",
 	"Project Blue Moon - Incoming Invaders!",
 	"Project Blue Moon - Punch It!",
-	"Project Blue Moon - Your Insurance Doesn't Cover Plasma Burns");
+	"Project Blue Moon - Your Insurance Doesn't Cover Plasma Burns",
+	"Project Blue Moon - Man That Sounded Bad...");
 	#endregion
 	
 	captionIndex = random_range(0, ds_list_size(captionList)); //Pick random caption
